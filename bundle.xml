@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+    <bundle>
+        <label>Modal Manager</label>
+        <name>bootstrap_modal_manager</name>
+        <type>extension</type>
+        <version>1.0.0</version>
+        <namespace>/extension/bootstrap_modal_manager</namespace>
+        <description>Provides modal management for Bootstrap modals</description>
+        <copyright>2015 Adapt Framework</copyright>
+        <license>MIT</license>
+        <depends_on>
+            <bundle>jquery</bundle>
+            <bundle>bootstrap</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
