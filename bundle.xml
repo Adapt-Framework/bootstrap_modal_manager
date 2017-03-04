@@ -5,6 +5,8 @@
         <name>bootstrap_modal_manager</name>
         <type>extension</type>
         <version>1.0.0</version>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <namespace>\bootstrap\modal_manager</namespace>
         <description>Provides modal management for Bootstrap modals</description>
         <copyright>2015 Adapt Framework</copyright>
